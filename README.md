@@ -1,4 +1,4 @@
-# Contract Analysis Tool
+# Document Analysis Tool
 
 ## Overview
 This tool uses AI to automatically extract structured information from software license and service agreements. It parses contract text and organizes key details into a structured format using Pydantic models and Google's Generative AI.
